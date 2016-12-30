@@ -1,7 +1,3 @@
 updated a.txt
-<<<<<<< HEAD
 updated in master and on feature branch
-=======
-updated in feature branch
->>>>>>> updated in feature branch
 
